@@ -25,7 +25,7 @@ resource "aws_instance" "app_server" {
   # EOF
 
   tags = {
-    Name = "AWS Test"
+    Name = "Terraform Ansible Python"
   }
 }
 
